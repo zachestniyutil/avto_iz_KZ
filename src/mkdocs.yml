@@ -1,4 +1,4 @@
-site_name: 'T-Invest API'
+site_name: 'Утиль. сбор за авто, произведенный в Кахазстане'
 docs_dir: docs
 repo_url: https://github.com/zachestniyutil/avto_iz_KZ
 theme:
